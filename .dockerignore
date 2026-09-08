@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.sample
+.git
+.gitignore
+.DS_Store
+node_modules
+tmp

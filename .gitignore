@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.sample
+.DS_Store
+provider-api
+tmp/
